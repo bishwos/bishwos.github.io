@@ -3,6 +3,8 @@
 ## Repositories
 
 [Simple Sidescroller game using html canvas](https://github.com/bishwos/simple-sidescroller-game)
+
+[Play](https://bishwos.github.io/simple-sidescroller-game/)
 ````
 https://github.com/bishwos/simple-sidescroller-game.git
 ````
