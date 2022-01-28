@@ -2,19 +2,19 @@
 
 ## My repos
 
-Simple Sidescroller game using html canvas
+[Simple Sidescroller game using html canvas](https://github.com/bishwos/simple-sidescroller-game)
 ````
-https://github.com/bishwos/simple-sidescroller-game
+https://github.com/bishwos/simple-sidescroller-game.git
 ````
-Nepse Scraper using cherio
+[Nepse Scraper using cherio](https://github.com/bishwos/nepse-floorsheet-scraper)
 
 ````
-https://github.com/bishwos/nepse-floorsheet-scraper
+https://github.com/bishwos/nepse-floorsheet-scraper.git
 ````
 
-Hacker rank tests
+[Hacker rank tests](https://github.com/bishwos/hackerrank_tests)
 ````
-https://github.com/bishwos/hackerrank_tests
+https://github.com/bishwos/hackerrank_tests.git
 ````
 
 Practicing TDD
