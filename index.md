@@ -12,6 +12,11 @@ https://github.com/bishwos/simple-sidescroller-game.git
 https://github.com/bishwos/nepse-floorsheet-scraper.git
 ````
 
+[Spring base for Restful APIs](https://github.com/bishwos/rest_base)
+````
+https://github.com/bishwos/rest_base.git
+````
+
 [Hacker rank tests](https://github.com/bishwos/hackerrank_tests)
 ````
 https://github.com/bishwos/hackerrank_tests.git
