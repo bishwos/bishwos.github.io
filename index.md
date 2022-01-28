@@ -26,6 +26,7 @@ TODO
 - [ ] TDD
 - [ ] Mathematics Notes
 - [ ] Machine learning excercises
+- [ ] Kotlin graphql server
 
 Left here for reference to markdown for future use
 
