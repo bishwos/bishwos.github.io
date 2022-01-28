@@ -1,6 +1,6 @@
 # Bishwos Page on the web
 
-## My repos
+## Repositories
 
 [Simple Sidescroller game using html canvas](https://github.com/bishwos/simple-sidescroller-game)
 ````
@@ -24,6 +24,8 @@ TODO
 
 ## TODO
 - [ ] TDD
+- [ ] Mathematics Notes
+- [ ] Machine learning excercises
 
 Left here for reference to markdown for future use
 
